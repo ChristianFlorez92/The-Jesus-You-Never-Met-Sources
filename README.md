@@ -1,6 +1,4 @@
-[WTRRJ_Sources_Final_Cut.html](https://github.com/user-attachments/files/30199572/WTRRJ_Sources_Final_Cut.html)
-# The-Jesus-You-Never-Met-Sources
-This channel is built on one rule: every claim traces to a primary source with a direct URL before it goes to camera. Nothing here is asking you to take my word for it — go read the originals. I've labeled every source as either [Established] (documented fact) or [Contested] because honesty about what we know and don't know is the whole point.
+[WTRRJ_Sources_Final_Cut (1).html](https://github.com/user-attachments/files/30199626/WTRRJ_Sources_Final_Cut.1.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
